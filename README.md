@@ -1,13 +1,12 @@
 # Infrastructure du homelab
-# SOMMAIRE
   <details>
     <summary>
       <b>Sommaire</b> (cliquez pour dérouler)
     </summary>
-    
-    <ul>
+
+  <ul>
       <li><a href="https://github.com/root-orion-ops/homelab-star.lan/tree/doc-proxmox">1. PROXMOX</a></li>
-    </ul>
+  </ul>
     
   </details>
 
