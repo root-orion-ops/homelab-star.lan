@@ -19,3 +19,5 @@ apt update && apt dist-upgrade -y pour vérifier que tout est bon encore une foi
 <img src="./assets/image9.png" />
 </details>
 
+## ISSUES/AMELIORATION ANNEXE
+https://github.com/root-orion-ops/homelab-star.lan/issues/1#issue-5552468003
