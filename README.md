@@ -5,7 +5,7 @@
     </summary>
 
   <ul>
-      <li>1. <a href="https://github.com/root-orion-ops/homelab-star.lan/tree/doc-proxmox"><b>PROXMOX</b></a></li>
+      <li><a href="https://github.com/root-orion-ops/homelab-star.lan/tree/doc-proxmox"><b>PROXMOX</b></a></li>
   </ul>
     
   </details>
