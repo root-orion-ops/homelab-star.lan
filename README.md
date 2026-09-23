@@ -1,5 +1,5 @@
-# homelab-star.lan
-Voici la documentation de mon homelab
+# Homelab star.lan
+Voici le sommaire
 
 ## DIAGRAMME DU LAB
 ![diagramme](./assets/labd.png)
