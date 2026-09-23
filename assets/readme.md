@@ -1,1 +1,1 @@
-Assets
+# Dossier pour stocker les assets
