@@ -1,4 +1,4 @@
-# Homelab star.lan
+# HOMELAB star.lan
 ![diagramme](./assets/labd.png)
 
 # SOMMAIRE
