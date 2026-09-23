@@ -13,7 +13,8 @@ Une fois Proxmox VE 9.2 installé sur le PC portable il faut accéder à son int
 <img src="./assets/image5.png" />
 <img src="./assets/image6.png" />
 <img src="./assets/image7.png" />
-apt update && apt dist-upgrade -y
+
+apt update && apt dist-upgrade -y pour vérifier que tout est bon encore une fois
 <img src="./assets/image8.png" />
 <img src="./assets/image9.png" />
 </details>
