@@ -10,8 +10,6 @@
     </ul>
     
   </details>
-## PROXMOX
-Documentation PROXMOX https://github.com/root-orion-ops/homelab-star.lan/tree/doc-proxmox
 
 ![diagramme](./assets/labd.png)
 
