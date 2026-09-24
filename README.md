@@ -30,7 +30,7 @@ présence de la gtx 1650 -> possibilité de faire du passthrough vers une VM plu
   
 #
 
-<span style="color:red">Intégrer l'hôte PROXMOX dans le LAN</span>
+Intégrer l'hôte PROXMOX dans le LAN
 <img src="./assets/image11.png" />
 <img src="./assets/image12.png" />
 <img src="./assets/image13.png" />
