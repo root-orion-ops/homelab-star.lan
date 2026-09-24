@@ -24,7 +24,14 @@ apt update && apt dist-upgrade -y pour vérifier que tout est bon encore une foi
 <details>
   <b>(!) POUR LE MOMENT SCREENSHOT SEULEMENT EN COURS DE DOCUMENTATION (!)</b>
 
-    
+<img src="./assets/image10.png" />
+<img src="./assets/image11.png" />
+<img src="./assets/image12.png" />
+<img src="./assets/image13.png" />
+<img src="./assets/image14.png" />
+<img src="./assets/image15.png" />
+<img src="./assets/image16.png" />
+<img src="./assets/image17.png" />
 </details>
 
 ## ISSUES/AMELIORATION ANNEXE
