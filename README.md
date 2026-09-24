@@ -27,7 +27,8 @@ commande pour detecter la présence des carte graphique, (hors celui présent su
 `lspci -nnk | grep -A 3 -i vga`
 <img src="./assets/image10.png" />
 présence de la gtx 1650 -> possibilité de faire du passthrough vers une VM plus tard, ou une IA locale
-# <br><br>
+#
+<br><br>
 
 Intégrer l'hôte PROXMOX dans le LAN
 <img src="./assets/image11.png" />
