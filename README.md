@@ -22,7 +22,7 @@ apt update && apt dist-upgrade -y pour vérifier que tout est bon encore une foi
 
 ### 2. CARTE GRAPHIQUE ET INTEGRATION DE L'HÔTE PROXMOX DANS LE LAN
 <details>
-  <b>(!) POUR LE MOMENT SCREENSHOT SEULEMENT EN COURS DE DOCUMENTATION (!)</b><br/>
+  <b>(!) POUR LE MOMENT SCREENSHOT SEULEMENT EN COURS DE DOCUMENTATION (!)</b><br><br>
 commande pour detecter la présence des carte graphique, (hors celui présent sur le chipset du processeur)
 `lspci -nnk | grep -A 3 -i vga`
 <img src="./assets/image10.png" />
