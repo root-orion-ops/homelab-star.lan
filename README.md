@@ -6,7 +6,7 @@
 
   <ul>
       <li><a href="https://github.com/root-orion-ops/homelab-star.lan/tree/doc-proxmox"><b>PROXMOX</b></a></li>
-      <li><a href="https://github.com/root-orion-ops/homelab-star.lan/tree/doc-windows-server"><b>Windows SERVER</b></a></li>
+      <li><b href="https://github.com/root-orion-ops/homelab-star.lan/tree/doc-windows-server"><b>Windows SERVER</b></a></li>
   </ul>
     
   </details>
