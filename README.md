@@ -1,7 +1,7 @@
 # Documentation PROXMOX
 Installation et configuration de PROXMOX dans l'infrastructure LAN de mon homelab
 
-## CONFIGURATION PROXMOX
+### CONFIGURATION PROXMOX
 <details> 
   <b>(!) POUR LE MOMENT SCREENSHOT SEULEMENT EN COURS DE DOCUMENTATION (!)</b>
   
@@ -18,6 +18,13 @@ Une fois Proxmox VE 9.2 installé sur le serveur (pour mon cas ça sera un vieux
 apt update && apt dist-upgrade -y pour vérifier que tout est bon encore une fois
 <img src="./assets/image8.png" />
 <img src="./assets/image9.png" />
+</details>
+
+### CARTE GRAPHIQUE ET INTEGRATION DE L'HÔTE PROXMOX DANS LE LAN
+<details>
+  <b>(!) POUR LE MOMENT SCREENSHOT SEULEMENT EN COURS DE DOCUMENTATION (!)</b>
+
+    
 </details>
 
 ## ISSUES/AMELIORATION ANNEXE
