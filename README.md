@@ -23,8 +23,7 @@ apt update && apt dist-upgrade -y pour vérifier que tout est bon encore une foi
 ### 2. CARTE GRAPHIQUE ET INTEGRATION DE L'HÔTE PROXMOX DANS LE LAN
 <details><br>
   <b>(!) POUR LE MOMENT SCREENSHOT SEULEMENT EN COURS DE DOCUMENTATION (!)</b><br><br>
-- Commande pour detecter la présence des carte graphique, (hors celui présent sur le chipset du processeur)
-  
+- Commande pour detecter la présence des carte graphique, hors celui présent sur le chipset du processeur
 `lspci -nnk | grep -A 3 -i vga`
 <img src="./assets/image10.png" />
 présence de la gtx 1650 -> possibilité de faire du passthrough vers une VM plus tard, ou une IA locale
