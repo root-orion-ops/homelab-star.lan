@@ -1,7 +1,7 @@
 # Documentation PROXMOX
 Installation et configuration de PROXMOX dans l'infrastructure LAN de mon homelab
 
-## CONFIGURATION PROXMOX
+### 1. CONFIGURATION PROXMOX
 <details> 
   <b>(!) POUR LE MOMENT SCREENSHOT SEULEMENT EN COURS DE DOCUMENTATION (!)</b>
   
@@ -20,7 +20,7 @@ apt update && apt dist-upgrade -y pour vérifier que tout est bon encore une foi
 <img src="./assets/image9.png" />
 </details>
 
-## CARTE GRAPHIQUE ET INTEGRATION DE L'HÔTE PROXMOX DANS LE LAN
+### 2. CARTE GRAPHIQUE ET INTEGRATION DE L'HÔTE PROXMOX DANS LE LAN
 <details>
   <b>(!) POUR LE MOMENT SCREENSHOT SEULEMENT EN COURS DE DOCUMENTATION (!)</b>
 
