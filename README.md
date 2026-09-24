@@ -25,7 +25,9 @@ apt update && apt dist-upgrade -y pour vérifier que tout est bon encore une foi
   <b>(!) POUR LE MOMENT SCREENSHOT SEULEMENT EN COURS DE DOCUMENTATION (!)</b>
 
 commande pour detecter la présence des carte graphique
+
 `lspci -nnk | grep -A 3 -i vga`
+
 présence de la gtx 1650 -> possibilité de faire du passthrough vers une VM plus tard, ou une IA locale
 <img src="./assets/image10.png" />
 
