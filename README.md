@@ -21,6 +21,6 @@ apt update && apt dist-upgrade -y pour vérifier que tout est bon encore une foi
 </details>
 
 ## ISSUES/AMELIORATION ANNEXE
-Faire disparaître le pop up No subscription(https://github.com/root-orion-ops/homelab-star.lan/issues/1#issue-5552468003)
-Ajouter le support du wi-fi(https://github.com/root-orion-ops/homelab-star.lan/issues/2)
-[Empêcher la mise en veille/shutdown à la fermeture du capot](https://github.com/root-orion-ops/homelab-star.lan/issues/3)
+- [Faire disparaître le pop up No subscription](https://github.com/root-orion-ops/homelab-star.lan/issues/1#issue-5552468003)
+- [Ajouter le support du wi-fi](https://github.com/root-orion-ops/homelab-star.lan/issues/2)
+- [Empêcher la mise en veille/shutdown à la fermeture du capot](https://github.com/root-orion-ops/homelab-star.lan/issues/3)
