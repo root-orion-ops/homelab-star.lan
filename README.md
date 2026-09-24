@@ -2,7 +2,7 @@
 Installation et configuration de PROXMOX dans l'infrastructure LAN de mon homelab
 
 ### 1. CONFIGURATION PROXMOX
-<details><br>
+<details> (cliquez pour dérouler)<br>
   <b>(!) POUR LE MOMENT SCREENSHOT SEULEMENT EN COURS DE DOCUMENTATION (!)</b><br><br>
 
 Une fois Proxmox VE 9.2 installé sur le serveur (pour mon cas ça sera un vieux PC portable recyclé) il faut accéder à son interface web (IP de la machine:8006) ici 192.168.0.12:8006
@@ -21,7 +21,7 @@ apt update && apt dist-upgrade -y pour vérifier que tout est bon encore une foi
 </details>
 
 ### 2. CARTE GRAPHIQUE ET INTEGRATION DE L'HÔTE PROXMOX DANS LE LAN
-<details><br>
+<details>(cliquez pour dérouler)<br>
   <b>(!) POUR LE MOMENT SCREENSHOT SEULEMENT EN COURS DE DOCUMENTATION (!)</b><br><br>
 Commande pour detecter la présence des carte graphique, (hors celui présent sur le chipset du processeur)
 `lspci -nnk | grep -A 3 -i vga`
