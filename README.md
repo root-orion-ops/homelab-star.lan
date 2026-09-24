@@ -30,6 +30,7 @@ commande pour detecter la présence des carte graphique, (hors celui présent su
 <img src="./assets/image10.png" />
 présence de la gtx 1650 -> possibilité de faire du passthrough vers une VM plus tard, ou une IA locale
 
+Intégrer l'hôte PROXMOX dans le LAN
 <img src="./assets/image11.png" />
 <img src="./assets/image12.png" />
 <img src="./assets/image13.png" />
