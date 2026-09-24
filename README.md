@@ -37,6 +37,7 @@ Basculer et intégrer l'hôte PROXMOX dans le LAN
 <img src="./assets/image14.png" />
 <img src="./assets/image15.png" />
 <img src="./assets/image16.png" />
+Ping vers l'extérieur (internet) pour confirmer que l'hôte est bien isolé
 <img src="./assets/image17.png" />
 </details>
 
