@@ -25,4 +25,6 @@ apt update && apt dist-upgrade -y pour vérifier que tout est bon encore une foi
 - [Ajouter le support du wi-fi](https://github.com/root-orion-ops/homelab-star.lan/issues/2)
 - [Empêcher la mise en veille/shutdown à la fermeture du capot](https://github.com/root-orion-ops/homelab-star.lan/issues/3)
 
+
+#
 [Page principale](https://github.com/root-orion-ops/homelab-star.lan)
