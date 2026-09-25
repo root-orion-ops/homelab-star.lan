@@ -32,7 +32,7 @@ apt update && apt dist-upgrade -y pour vérifier que tout est bon encore une foi
 Commande pour detecter la présence des carte graphique, (hors celui présent sur le chipset du processeur)
 `lspci -nnk | grep -A 3 -i vga`
 <img src="./assets/image10.png" />
-présence de la gtx 1650 -> possibilité de faire du passthrough vers une VM plus tard, ou une IA locale
+présence de la gtx 1650 -> possibilité de faire du passthrough vers une VM plus tard, ou une IA locale</details>
   
 #
 
@@ -55,6 +55,7 @@ Ping vers l'extérieur (internet) pour confirmer que l'hôte est bien isolé<br>
   <b>(!) POUR LE MOMENT SCREENSHOT SEULEMENT EN COURS DE DOCUMENTATION (!)</b><br><br>
 Dans le contexte où ce n'est qu'un pc portable avec 1 ssd interne ainsi qu'une RAM limitée
 <img src="./assets/image18.png" />
+</details>
 
 
 ## ISSUES/AMELIORATION ANNEXE
