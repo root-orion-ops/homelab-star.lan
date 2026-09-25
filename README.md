@@ -56,6 +56,7 @@ Ping vers l'extérieur (internet) pour confirmer que l'hôte est bien isolé<br>
 Dans le contexte où ce n'est qu'un pc portable avec 1 ssd interne ainsi qu'une RAM limitée
 <img src="./assets/image18.png" />
 
+
 ## ISSUES/AMELIORATION ANNEXE
 - [Faire disparaître le pop up No subscription](https://github.com/root-orion-ops/homelab-star.lan/issues/1#issue-5552468003)
 - [Ajouter le support du wi-fi](https://github.com/root-orion-ops/homelab-star.lan/issues/2)
