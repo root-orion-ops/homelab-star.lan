@@ -32,7 +32,7 @@ apt update && apt dist-upgrade -y pour vérifier que tout est bon encore une foi
 Commande pour detecter la présence des carte graphique, (hors celui présent sur le chipset du processeur)
 `lspci -nnk | grep -A 3 -i vga`
 <img src="./assets/image10.png" />
-présence de la gtx 1650 -> possibilité de faire du passthrough vers une VM plus tard, ou une IA locale</details>
+présence de la gtx 1650 -> possibilité de faire du passthrough vers une VM plus tard, ou une IA locale
   
 #
 
