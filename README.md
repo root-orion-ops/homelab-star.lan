@@ -53,8 +53,18 @@ Ping vers l'extérieur (internet) pour confirmer que l'hôte est bien isolé<br>
     Détails (cliquez pour dérouler)
   </summary><br>
   <b>(!) POUR LE MOMENT SCREENSHOT SEULEMENT EN COURS DE DOCUMENTATION (!)</b><br><br>
-Dans le contexte où ce n'est qu'un pc portable avec 1 ssd interne ainsi qu'une RAM limitée
+
 <img src="./assets/image18.png" />
+<img src="./assets/image19.png" />
+<img src="./assets/image20.png" />
+<img src="./assets/image21.png" />
+<img src="./assets/image22.png" />
+<img src="./assets/image23.png" />
+<img src="./assets/image24.png" />
+<img src="./assets/image25.png" />
+<img src="./assets/image26.png" />
+<img src="./assets/image27.png" />
+<img src="./assets/image28.png" />
 </details>
 
 
