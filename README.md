@@ -7,6 +7,7 @@
 <li><b href="https://github.com/root-orion-ops/homelab-star.lan/tree/doc-jellyfin"><b>Jellyfin</b></a></li>
 <li><b href="https://github.com/root-orion-ops/homelab-star.lan/tree/doc-kubernetes"><b>Kubernetes</b></a></li>
 <br>
+  
 ![diagramme](./assets/labd.png)
 
 
