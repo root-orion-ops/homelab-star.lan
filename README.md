@@ -20,7 +20,7 @@
 
 # Documentation PROXMOX
 Installation et configuration de PROXMOX dans l'infrastructure LAN de mon homelab
-<details>
+
 ### 1. CONFIGURATION PROXMOX
 <details>
   <summary>
@@ -96,7 +96,7 @@ Ping vers l'extérieur (internet) pour confirmer que l'hôte est bien isolé<br>
 
 <img src="./assets/proxmox/image29.png" />
 </details>
-</details>
+
 
 
 ## ISSUES/AMELIORATION ANNEXE
