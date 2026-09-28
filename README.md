@@ -95,7 +95,7 @@ Ping vers l'extérieur (internet) pour confirmer que l'hôte est bien isolé<br>
 
 Configuration du conteneur
 
-# Windows SERVER
+# Documentation Windows SERVER
 
 Configuration du serveur
 
