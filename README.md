@@ -1,19 +1,11 @@
 # Infrastructure du homelab
-  <details>
-    <summary>
-      <b>Sommaire</b> (cliquez pour dérouler)
-    </summary>
 
-  <ul>
-      <li><a href="https://github.com/root-orion-ops/homelab-star.lan#documentation-proxmox"><b>PROXMOX</b></a></li>
-      <li><a href="https://github.com/root-orion-ops/homelab-star.lan/tree/doc-lxc"><b>Conteneur LXC pour Samba/NFS</b></a></li>
-      <li><a href="https://github.com/root-orion-ops/homelab-star.lan/tree/doc-windows-server"><b>Windows SERVER</b></a></li>
-      <li><b href="https://github.com/root-orion-ops/homelab-star.lan/tree/doc-lancache"><b>LAN Cache</b></a></li>
-      <li><b href="https://github.com/root-orion-ops/homelab-star.lan/tree/doc-jellyfin"><b>Jellyfin</b></a></li>
-      <li><b href="https://github.com/root-orion-ops/homelab-star.lan/tree/doc-kubernetes"><b>Kubernetes</b></a></li>
-  </ul>
-    
-  </details>
+<li><a href="https://github.com/root-orion-ops/homelab-star.lan#documentation-proxmox"><b>PROXMOX</b></a></li>
+<li><a href="https://github.com/root-orion-ops/homelab-star.lan/tree/doc-lxc"><b>Conteneur LXC pour Samba/NFS</b></a></li>
+<li><a href="https://github.com/root-orion-ops/homelab-star.lan/tree/doc-windows-server"><b>Windows SERVER</b></a></li>
+<li><b href="https://github.com/root-orion-ops/homelab-star.lan/tree/doc-lancache"><b>LAN Cache</b></a></li>
+<li><b href="https://github.com/root-orion-ops/homelab-star.lan/tree/doc-jellyfin"><b>Jellyfin</b></a></li>
+<li><b href="https://github.com/root-orion-ops/homelab-star.lan/tree/doc-kubernetes"><b>Kubernetes</b></a></li>
 
 ![diagramme](./assets/labd.png)
 
