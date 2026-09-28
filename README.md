@@ -2,7 +2,7 @@
 
 <li><a href="https://github.com/root-orion-ops/homelab-star.lan#documentation-proxmox"><b>PROXMOX</b></a></li>
 <li><a href="https://github.com/root-orion-ops/homelab-star.lan/blob/main/README.md#documentation-lxc-pour-sambanfs"><b>Conteneur LXC pour Samba/NFS</b></a></li>
-<li><a href="https://github.com/root-orion-ops/homelab-star.lan/tree/doc-windows-server"><b>Windows SERVER</b></a></li>
+<li><a href="https://github.com/root-orion-ops/homelab-star.lan/blob/main/README.md#documentation-windows-server"><b>Windows SERVER</b></a></li>
 <li><b href="https://github.com/root-orion-ops/homelab-star.lan/tree/doc-lancache"><b>LAN Cache</b></a></li>
 <li><b href="https://github.com/root-orion-ops/homelab-star.lan/tree/doc-jellyfin"><b>Jellyfin</b></a></li>
 <li><b href="https://github.com/root-orion-ops/homelab-star.lan/tree/doc-kubernetes"><b>Kubernetes</b></a></li>
