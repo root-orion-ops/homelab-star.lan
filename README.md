@@ -91,6 +91,10 @@ Ping vers l'extérieur (internet) pour confirmer que l'hôte est bien isolé<br>
 </details>
 
 
+# Documentation LXC pour Samba/NFS
+
+Configuration du conteneur
+
 
 ## ISSUES/AMELIORATION ANNEXE
 - [Faire disparaître le pop up No subscription](https://github.com/root-orion-ops/homelab-star.lan/issues/1#issue-5552468003)
