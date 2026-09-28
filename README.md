@@ -99,6 +99,8 @@ Configuration du conteneur
 
 Configuration du serveur
 
+# Documentation Lan cache
+
 ## ISSUES/AMELIORATION ANNEXE
 - [Faire disparaître le pop up No subscription](https://github.com/root-orion-ops/homelab-star.lan/issues/1#issue-5552468003)
 - [Ajouter le support du wi-fi](https://github.com/root-orion-ops/homelab-star.lan/issues/2)
